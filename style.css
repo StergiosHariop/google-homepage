@@ -91,7 +91,6 @@ footer{
 
 .button{
     color:white;
-    cursor: default;
     text-decoration: none;
     border: 1px solid #4285f4;
     font-weight: bold;
@@ -106,6 +105,7 @@ footer{
     margin-right: 20px;
     margin-top: 8px;
     background-color: #4285f4;
+    cursor: pointer;
 }
 .bottomnav{
     color: #5f6368;
